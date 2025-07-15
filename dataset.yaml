@@ -1,0 +1,12 @@
+Path: /Users/lujain/Downloads/newCAR
+train: images
+val: images
+nc: 7
+names:
+  0: scratches
+  1: damaged_light
+  2: dent
+  3: damaged window
+  4: damaged hood
+  5: damaged_door
+  6: damaged bumper

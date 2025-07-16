@@ -63,5 +63,11 @@ datasets/car_damage/
 | Damaged Door      | 31     | 34        | 0.992     | 1.000  | 0.995   | 0.937        |
 | Damaged Bumper    | 116    | 121       | 0.968     | 0.986  | 0.994   | 0.906        |
 
+##  Detection Examples 📸
 
+Below are some examples of detected car damages using the trained YOLOv8 model:
+
+| Output Sample 1            | Output Sample 2            |
+|----------------------------|----------------------------|
+| ![](test1.jpg)             | ![](test2.jpg)             |
 
